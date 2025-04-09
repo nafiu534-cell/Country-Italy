@@ -21,7 +21,7 @@ CustomerID – Unique ID assigned to each customer
 
 Country – Customer’s country
 
-** Tools and Libraries**
+**Tools and Libraries**
 
 
 pandas for data manipulation
@@ -30,7 +30,7 @@ numpy for numerical operations
 
 matplotlib & seaborn for data visualization
 
-** Analysis Workflow**
+ **Analysis Workflow**
 
  1. Data Cleaning & Preprocessing
 Removed duplicated entries (5,268 rows)
@@ -58,7 +58,8 @@ Top 10 most purchased items
 
 Top 10 most frequently occurring products
 
-** 3. Country-Based Insights**
+**3. Country-Based Insights**
+
 Counted the number of transactions by country
 
 Filtered and analyzed all retail activity in Italy, with specific attention to:
